@@ -89,8 +89,7 @@ This endpoint mimics a login system and returns a mock JWT token with a user rol
   Example:
   ```json
   {
-    "token": "<JWT-TOKEN-HERE>",
-    "role": "User"
+    "token": "<JWT-TOKEN-HERE>"
   }
   ```
 
